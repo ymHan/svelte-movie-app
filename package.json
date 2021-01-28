@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "snowpack dev",
+    "dev:snowpack": "snowpack dev",
     "build": "snowpack build",
-    "dev:netlify": "netlify dev"
+    "dev": "netlify dev"
   },
   "keywords": [],
   "author": "",
